@@ -51,10 +51,12 @@
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
 ### Ответ:
+
 1.
-![9_04-3.1](https://github.com/RybakEgor/9-04_Prometheus/blob/main/img/9_04-3.1.png)
+-  ![9_04-3.1](https://github.com/RybakEgor/9-04_Prometheus/blob/main/img/9_04-3.1.png)
 2.
-![9_04-3.2](https://github.com/RybakEgor/9-04_Prometheus/blob/main/img/9_04-3.2.png)
+-  ![9_04-3.2](https://github.com/RybakEgor/9-04_Prometheus/blob/main/img/9_04-3.2.png)
+  
 ---
 ## Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. Это не повлияет на зачёт. Вы можете их выполнить, если хотите глубже разобраться в материале.
